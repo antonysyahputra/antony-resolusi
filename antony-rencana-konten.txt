@@ -2,6 +2,8 @@ RENCANA KONTEN ANTONY
 -JAVA SCRIPT
   * ES 6
   * Framework javascript
-  - Struktur data dasar
+   ^ Angular
+   ^ React
 - PHP FRAMEWORK
+ ^ Laravel
 - VLOG
