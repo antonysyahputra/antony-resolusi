@@ -4,3 +4,5 @@ ANTONY RESOLUSI
 - BUAT PROJECT SEDERHANA DENGAN REACT JS
 - BELAJAR FRAMEWORK LARAVEL
 - Belajar Node Js dan express js
+- Belajar MongoDB
+- Mers
