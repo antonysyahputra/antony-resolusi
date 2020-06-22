@@ -5,3 +5,4 @@ ANTONY RESOLUSI
 - BELAJAR FRAMEWORK LARAVEL
 - Belajar Node Js dan express js
 - Belajar MongoDB
+- Mers
